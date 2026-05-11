@@ -1,0 +1,3 @@
+display_name: 聚阅规则开发
+short_description: 聚阅/海阔视界 App 的 JavaScript 解析规则开发助手。覆盖 parse 骨架、内置函数、video://协议、三层存储、加密解密、CF过盾等。
+default_prompt: 帮我开发一个聚阅/海阔视界的规则，从 [目标网站URL] 解析视频/漫画内容。
